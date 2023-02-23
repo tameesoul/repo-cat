@@ -6,3 +6,5 @@ https://icy-archduke-e8e.notion.site/Database-Design-week2-3f2a95bdfe374594a3777
 https://www.notion.so/Database-design-week6-a2c4263efc1d4b449c5ec7d64af80820?pvs=4
 # sql cmu 
 https://icy-archduke-e8e.notion.site/SQL-SUMMERY-d364e91597414f329f55f531cc05128c
+# Mosh Hamedani - SQL SUMMERY 
+https://icy-archduke-e8e.notion.site/Mosh-Hamedani-SQL-SUMMERY-b33fd18c03ad45d6b584498faf47feb3
