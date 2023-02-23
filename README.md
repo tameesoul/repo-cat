@@ -10,3 +10,6 @@ https://www.notion.so/database-design-week-8-4618bdea862b4169a2aa4e928bb4f32a?pv
 https://icy-archduke-e8e.notion.site/SQL-SUMMERY-d364e91597414f329f55f531cc05128c
 # Mosh Hamedani - SQL SUMMERY 
 https://icy-archduke-e8e.notion.site/Mosh-Hamedani-SQL-SUMMERY-b33fd18c03ad45d6b584498faf47feb3
+
+# schema steps 
+https://www.notion.so/supermarket-dcdd74d4cce24a01bdd229f7c86b6b6d?pvs=4
